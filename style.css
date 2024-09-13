@@ -1,0 +1,25 @@
+.profile-photo {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+.background {
+    background-color: rgba(189, 241, 243, 0.664);
+}
+
+.writing-section {
+    display: flex;
+    align-self: center;
+    font-style: oblique;
+}
+
+.contact-me {
+    background-color:  rgba(189, 241, 243, 0.664);
+    width: 150px;
+    border: solid  rgba(189, 241, 243, 0.664);
+    border-radius: 200px;
+    font-weight: 600;
+}
+.footer {
+    background-color: rgba(234, 247, 250, 0.486);
+}
